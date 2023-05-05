@@ -20,17 +20,17 @@ To run the application on your own machines follow these steps:
 
 dotnet run
 
-This command will then run the code in your terminal and display outputs in the terminal for you to visualise. 
+- This command will then run the code in your terminal and display outputs in the terminal for you to visualise. 
 
 
 Additional Info: 
 
-If you ever play aroudn with the code and encounter an error that looks like this: 
+- If you ever play around with the code and encounter an error that looks like this: 
 
 attachment of code signature supplement failed
 
-simply run this command: 
+- simply run this command: 
 
 dotnet clean
 
-This command will "clean" the build we previously made, meaning that the new code you've written can be compiled into a new build before you run the program again succesfully. 
+- This command will "clean" the build we previously made, meaning that the new code you've written can be compiled into a new build before you run the program again succesfully. 
